@@ -1,6 +1,7 @@
 package com.oopsinjava.classesandobjects.pojoclass;
 
 public class PojoClass {
+
     private String name ;
     private int accountNumber;
     private float accountBalance;
